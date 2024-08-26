@@ -1,0 +1,15 @@
+.table-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.field-spacing {
+  margin-bottom: 1rem;
+}
